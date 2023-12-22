@@ -11,3 +11,5 @@ Cargo.lock
 bindings/c/*.h
 bindings/c/*.pc
 .build/
+/zig-out/
+/zig-cache/
